@@ -1,3 +1,1 @@
-this is a test file to demo marge conflict (created in master-branch)
-
-modifying file from test-branch1 
+this is a test file to demo marge conflict (created in master-branch) 
