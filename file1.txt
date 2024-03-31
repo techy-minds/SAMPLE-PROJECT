@@ -1,1 +1,2 @@
 created a file from master branch to test merge conflict
+2nd modification of file from conf-branch2
