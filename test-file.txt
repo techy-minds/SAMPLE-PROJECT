@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is a test file to demo marge conflict (created in master-branch) 
-
-modifying the file from test-branch1
-
